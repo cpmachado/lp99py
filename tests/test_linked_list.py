@@ -1,9 +1,9 @@
-from lp99py.linked_list import LinkedList, listToLinkedList
+from lp99py.linked_list import LinkedList, list_to_linked_list
 
 
-def test_listToLinkedList():
+def test_list_to_linked_list():
     a = ['a', 'b', 'c', 'd', 'e']
-    la = listToLinkedList(a)
+    la = list_to_linked_list(a)
 
     assert isinstance(la, LinkedList)
 

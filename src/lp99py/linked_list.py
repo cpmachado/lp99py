@@ -27,7 +27,7 @@ class LinkedList:
         return LinkedListIterator(self)
 
 
-def listToLinkedList(anyList: list[Any]) -> LinkedList:
+def list_to_linked_list(anyList: list[Any]) -> LinkedList:
 
     f: Callable[[LinkedList, LinkedList], LinkedList] = \
         (lambda acc, curr: LinkedList(curr, acc))
