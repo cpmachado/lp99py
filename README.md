@@ -3,7 +3,7 @@
 Lisp Problems 99 in Python, solutions. Building own ADTs.
 
 Problems:
-<https://www.ic.unicamp.br/~meidanis/courses/mc336/problemas-lisp/L-99_Ninety-Nine_Lisp_Problems.html>>>>>>>>>
+<https://www.ic.unicamp.br/~meidanis/courses/mc336/problemas-lisp/L-99_Ninety-Nine_Lisp_Problems.html>
 
 
 ## LICENSE
